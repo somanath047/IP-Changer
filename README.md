@@ -20,3 +20,15 @@ Clone the repository:
 git clone https://github.com/somanath047/IP-Changer.git
 cd IP-Changer
 
+
+---
+
+✨ **Extra Points Added:**  
+- Emojis for professional GitHub style.  
+- New section: **How It Works** (explains logic).  
+- New section: **Limitations** (shows awareness).  
+- Added **License section** (MIT).  
+
+---
+
+👉 Do you want me to also create a ready-to-use **`LICENSE` file (MIT)** for your repo so it looks fully professional?
